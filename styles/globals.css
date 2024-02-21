@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 :root {
-  --yellow-main: #F7FF62
+  --yellow-main: #F7FF62;
+  --light-black: #111111;
+  --gray: #B1B1B4;
 }
 
 @media (prefers-color-scheme: dark) {

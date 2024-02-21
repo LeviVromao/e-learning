@@ -22,7 +22,7 @@ export default function FirstSection() {
         </div>
       </div>
       <div className="hidden md:flex justify-center items-end w-[47%]">
-        <Image src="/girl_with_book.jpg" className="w-[450px] rounded-t-2xl object-cover" alt="an girl holding a yellow book while looking at you" width={80} height={80}/>
+        <Image src="/copy-space-woman-reading-book.jpg" className="w-[450px] rounded-t-2xl object-cover" alt="an girl holding a yellow book while looking at you" width={450} height={80}/>
       </div>
     </div>
   )

@@ -10,6 +10,8 @@ const config: Config = {
     extend: {
       colors: {
         "yellow-main": "var(--yellow-main)",
+        "lightBlack":"var(--light-black)",
+        "gray":"var(--gray)",
       },
       fontFamily: {
         playfair: ['"playfair"', "sans-serif"],
