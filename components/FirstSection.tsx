@@ -16,9 +16,9 @@ export default function FirstSection() {
         <p className="text-[#B1B1B4]">4000+ Student Complete There Course</p>
         <p className="text-[#B1B1B4]">From E-Lering</p>
         <div className="flex gap-4">
-          <Image src="/universidadZara.png" className="sm:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
-          <Image src="/universidadZara.png" className="sm:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
-          <Image src="/universidadZara.png" className="sm:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
+          <Image src="/universidadZara.png" className="md:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
+          <Image src="/universidadZara.png" className="md:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
+          <Image src="/universidadZara.png" className="md:w-40" alt="An logo of the university Zaragoza" width={80} height={80}/>
         </div>
       </div>
       <div className="hidden md:flex justify-center items-end w-[47%]">
