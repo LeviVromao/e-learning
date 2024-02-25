@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header(){
   return (
-    <div className="fixed top-[0%] w-[100%] flex items-center justify-evenly bg-black p-5">
+    <div className="fixed z-50 top-[0%] w-[100%] flex items-center justify-evenly bg-black p-5">
       <Link href="/" className="flex items-center gap-0.5">
         <p className="text-white text-xl font-playfair italic font-semilhold"><span className="text-yellow-main">e</span>-learn<span className="text-yellow-main">ing.</span></p>
       </Link>

@@ -27,7 +27,7 @@ export default function ThirdSection(){
         <CarouselContent className="-ml-4 text-playfair">
             <CarouselItem className="relative basis-full md:basis-2/5">
               <div className="bg-yellow-main rounded-xl">
-                <Card className="cursor-pointer flex flex-col justify-evenly p-4 h-96 hover:translate-x-3 hover:translate-y-1.5">
+                <Card className="cursor-pointer flex flex-col transition-all delay-100 justify-evenly p-4 h-96 hover:translate-x-3 hover:translate-y-1.5">
                   <CardHeader className="p-0">
                     <Image src="/computer.jpg" alt="An computer" className="rounded-lg w-full border border-black object-cover" width={200} height={200}/>
                   </CardHeader>
@@ -53,7 +53,7 @@ export default function ThirdSection(){
             </CarouselItem>
             <CarouselItem className="basis-full md:basis-2/5">
               <div className="bg-yellow-main rounded-xl">
-                <Card className="cursor-pointer flex flex-col justify-evenly p-4 h-96 relative hover:translate-x-3 hover:translate-y-1.5">
+                <Card className="cursor-pointer flex flex-col transition-all delay-100 justify-evenly p-4 h-96 relative hover:translate-x-3 hover:translate-y-1.5">
                   <CardHeader className="p-0">
                     <Image src="/setup.jpg" alt="An setup gamer" className="rounded-lg w-full border border-black object-cover" width={200} height={200}/>
                   </CardHeader>
@@ -79,7 +79,7 @@ export default function ThirdSection(){
             </CarouselItem>
             <CarouselItem className="basis-full md:basis-2/5">
               <div className="bg-yellow-main rounded-xl">
-                <Card className="cursor-pointer flex flex-col justify-evenly p-4 h-96 relative hover: ranslate-x-3 hover:translate-y-1.5">
+                <Card className="cursor-pointer flex flex-col transition-all delay-100 justify-evenly p-4 h-96 relative hover: ranslate-x-3 hover:translate-y-1.5">
                   <CardHeader className="p-0">
                       <Image src="/computer.jpg" alt="An computer" className="rounded-lg w-full border border-black object-cover" width={200} height={200}/>
                   </CardHeader>
