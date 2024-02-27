@@ -12,13 +12,13 @@ export default function FifthSection() {
        <p className="text-white">UI/UX Designer</p>
         <div className="flex gap-3.5">
           <div className="rounded-full p-1.5">
-            <Image src="/client_1.jpg" className="w-[230px] rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
+            <Image src="/client_1.jpg" className="rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
           </div>
           <div className="rounded-full p-1.5 border-2 border-yellow-main">
-            <Image src="/client_2.jpg" className="w-[230px] rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
+            <Image src="/client_2.jpg" className="rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
           </div>
           <div className="rounded-full p-1.5">
-            <Image src="/client_3.jpg" className="w-[230px] rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
+            <Image src="/client_3.jpg" className="rounded-full object-cover w-24 h-24" alt="An person represent the clients" width={210} height={210}/>
           </div>
      </div>
     </div>
