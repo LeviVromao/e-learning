@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import SecondSection from "@/components/SecondSection";
 import ThirdSection from "@/components/ThirdSection";
 import FourthSection from "@/components/FourhtSection";
+import FifthSection from "@/components/FifthSection"
 import Head from "next/head";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <SecondSection/>
       <ThirdSection />
       <FourthSection />
+      <FifthSection />
     </>
   );
 }
