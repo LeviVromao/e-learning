@@ -81,7 +81,7 @@ export default function ThirdSection(){
               <div className="bg-yellow-main rounded-xl">
                 <Card className="cursor-pointer flex flex-col transition-all delay-100 justify-evenly p-4 h-96 relative hover: ranslate-x-3 hover:translate-y-1.5">
                   <CardHeader className="p-0">
-                      <Image src="/computer.jpg" alt="An computer" className="rounded-lg w-full border border-black object-cover" width={200} height={200}/>
+                      <Image src="/computer_2.jpg" alt="An computer" className="rounded-lg w-full border border-black object-cover" width={200} height={200}/>
                   </CardHeader>
                   <div className="flex justify-between items-center">
                       <p className="text-xs font-bold">Design</p>
