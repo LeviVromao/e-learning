@@ -7,7 +7,7 @@ export default function FifthSection() {
       <h1 className="text-white text-4xl font-bold">What Clients Have To Say About Us</h1>
       <p className="text-white">Interdum Et Malesuada Famus Ac Ante Ipsum</p>
       <ImQuotesLeft className="text-yellow-main text-8xl"/>
-      <p className="text-gray max-w-4xl text-center">"Thanks To E-Learning, Booz Allen Has Armed Our Workforce, Specifially its Data Scientists, With Highly Relevant And In-Demand Tech Skills That Are Enabling Scientists, With Highly Relevant And in-Demand Tech Skills That Are Enabling COnsutltants to Stay Ahead Of Big Data Trends And Raise The Bar On proficienc. Skills And Competencies To Meet Client Demand"</p>
+      <p className="text-gray max-w-4xl text-center">Thanks To E-Learning, Booz Allen Has Armed Our Workforce, Specifially its Data Scientists, With Highly Relevant And In-Demand Tech Skills That Are Enabling Scientists, With Highly Relevant And in-Demand Tech Skills That Are Enabling COnsutltants to Stay Ahead Of Big Data Trends And Raise The Bar On proficienc. Skills And Competencies To Meet Client Demand</p>
        <h2 className="text-white text-2xl font-bold">Washim Akram</h2>
        <p className="text-white">UI/UX Designer</p>
         <div className="flex gap-3.5">
