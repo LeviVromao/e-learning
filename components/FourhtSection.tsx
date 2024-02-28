@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function FourthSection(){
   return (
-    <div className="flex gap-11 flex-col items-center py-16 bg-[#F9F6F0]">
+    <div className="flex gap-11 flex-col items-center py-16 bg-darkWhite">
       <h1 className="text-center text-4xl font-bold font-playfair md:text-5xl">Our <span className="bg-lightBlack font-semibold text-yellow-main italic px-4 rounded-[36px]">Success Story</span></h1>
       <p className="text-center text-gray font-semibold text-lg">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum eum maxime quas, natus officia</p>
       <video src="/video (720p).mp4" controls loop className="rounded-3xl w-[95%] sm:max-w-4xl"></video>

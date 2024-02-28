@@ -1,7 +1,7 @@
 import Image from "next/image"
 export default function SecondSection(){
   return (
-    <div className="flex flex-col bg-[#F9F6F0] p-3 gap-6 md:py-12 md:px-[8.5rem]">
+    <div className="flex flex-col bg-darkWhite p-3 gap-6 md:py-12 md:px-[8.5rem]">
         <div className="flex flex-col items-center justify-center gap-3 md:flex-row">
           <div className="w-[96%] rounded-2xl height-[174px] p-4 bg-lightBlack">
             <h1 className="font-playfair font-italic text-white text-3xl font-bold mb-[4.19rem]">What To <span className="text-yellow-main">Expect From A</span> E-Learning Course</h1>

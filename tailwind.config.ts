@@ -17,11 +17,17 @@ const config = {
         "2xl": "1400px",
       },
     },
+    fontFamily: {
+      "playfair": ['"playfair"', 'sans-serif'],
+      "comicSans": ['"Saira Stencil One"', 'sans-serif']
+    },
     extend: {
       colors: {
         "yellow-main": "var(--yellow-main)",
         "lightBlack":"var(--light-black)",
         "gray":"var(--gray)",
+        "darkWhite": "var(--dark-white)",
+        "p-color": "var(--p-color)",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
